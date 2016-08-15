@@ -1,0 +1,31 @@
+{
+  "name": "kungfulinux_website",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "~3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "~3.0.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kungfulinux/kungfulinux_website.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "David Jacobs <djacobs@kungfulinux.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kungfulinux/kungfulinux_website/issues"
+  }
+}
